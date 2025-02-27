@@ -13,7 +13,7 @@
       Welcome to my profile,Explore my work and connect with me!🔗
     </p>
     <div class="social-links">
-      <a href="pharshithashetty@gmail.com">Email</a>
+      <a>Email: pharshithashetty@gmail.com </a>
     </div>
   </div>
 </body>
