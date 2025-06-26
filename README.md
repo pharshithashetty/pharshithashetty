@@ -11,7 +11,6 @@
 ### 🔗 Connect with Me
 - 📧 Email: [pharshithashetty@gmail.com](mailto:pharshithashetty@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 🧠 Portfolio: Coming soon!
 
 ---
 
